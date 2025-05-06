@@ -1,0 +1,21 @@
+{
+    "name": "ai-chatbot",
+    "version": "0.1.0",
+    "description": "A project using Langchain and custom utilities",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "langchain": "^0.1.20"
+    },
+    "devDependencies": {
+      "openai": "^4.28.0"
+    },
+    "keywords": [
+      "langchain",
+      "openai"
+    ],
+    "author": "Your Name",
+    "license": "ISC"
+  }
